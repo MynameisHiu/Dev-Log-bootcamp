@@ -3,7 +3,7 @@
 - Student: Nguyễn Minh Hiếu
 - GitHub: https://github.com/MynameisHiu
 - Submitted: 20/10/2026
-- Commit: 
+- Commit: https://github.com/MynameisHiu/Dev-Log-bootcamp/blob/main/submissions/MynameisHiu/session-01.md
 
 ## 1. Summary
 - Tổng quát về công nghệ Blockchain.
@@ -60,6 +60,7 @@ Các lĩnh vực ứng dụng tiêu biểu:
 
 ## 4. Evidence
 https://docs.google.com/document/d/1Rs-sHO9vW49wzqVWb9xoRc_snfbhZ1IZ/edit?usp=sharing&ouid=101913683076147613127&rtpof=true&sd=true
+https://github.com/MynameisHiu/Dev-Log-bootcamp/blob/main/submissions/MynameisHiu/session-01.md
 
 
 ## 5. Blockers
