@@ -7,7 +7,7 @@
 
 ## 1. Summary
 
-- Làm rõ các khái niệm cốt lõi bao gồm hàm băm (Hashing), cặp khóa bất đối xứng (Public và Private Key), chữ ký số (Digital Signature), quy trình sinh địa chỉ ví (Address), cụm từ khôi phục (Seed Phrase), phân loại ví (Hot/Cold Wallet, Custodial/Non-custodial) và các nguyên tắc bảo mật ví quan trọng.[1][2]
+- Làm rõ các khái niệm cốt lõi bao gồm hàm băm (Hashing), cặp khóa bất đối xứng (Public và Private Key), chữ ký số (Digital Signature), quy trình sinh địa chỉ ví (Address), cụm từ khôi phục (Seed Phrase), phân loại ví (Hot/Cold Wallet, Custodial/Non-custodial) và các nguyên tắc bảo mật ví quan trọng.
 
 ## 2. Topic notes
 
